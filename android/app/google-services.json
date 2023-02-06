@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756530634751",
+    "project_id": "fyp-todo-list-a116c",
+    "storage_bucket": "fyp-todo-list-a116c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756530634751:android:c109a225d8b4b5a65fd1ca",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756530634751-vra8q1g4063cufpt3lti4lc75etl7nid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZoslC6OvbM4TsPn2xMq-mF5GgvXPPJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756530634751-vra8q1g4063cufpt3lti4lc75etl7nid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
